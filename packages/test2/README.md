@@ -1,11 +1,11 @@
-# `test3`
+# `test2`
 
 > TODO: description
 
 ## Usage
 
 ```
-const test3 = require('test3');
+const test2 = require('test2');
 
 // TODO: DEMONSTRATE API
 ```
