@@ -1,11 +1,11 @@
-# `test2`
+# `petsgre-test1`
 
 > TODO: description
 
 ## Usage
 
 ```
-const test2 = require('test2');
+const petsgreTest1 = require('petsgre-test1');
 
 // TODO: DEMONSTRATE API
 ```

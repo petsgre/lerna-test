@@ -1,0 +1,23 @@
+{
+  "name": "petsgre-test2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "zx <petsgre@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/petsgre-test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
